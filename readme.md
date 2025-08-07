@@ -42,14 +42,14 @@ An interactive and responsive quiz game built using HTML, CSS, and JavaScript. T
    ```bash
    http://localhost:8000
    ```
-   
+
 ## Project Structure
 
-quiz-game-app/
-├── index.html       # Main HTML structure
-├── style.css        # Blue pastel UI styling
-├── script.js        # Quiz logic and interactions
-└── README.md        # Project documentation
+SCT_WD_03/
+├── index.html  # Main HTML structure
+├── style.css   # Blue pastel UI styling
+├── script.js   # Quiz logic and interactions
+└── README.md   # Project documentation
 
 ## Question Types Explained
 
