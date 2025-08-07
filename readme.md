@@ -45,11 +45,15 @@ An interactive and responsive quiz game built using HTML, CSS, and JavaScript. T
 
 ## Project Structure
 
+```
+
 SCT_WD_03/
 ├── index.html  # Main HTML structure
 ├── style.css   # Blue pastel UI styling
 ├── script.js   # Quiz logic and interactions
 └── README.md   # Project documentation
+
+```
 
 ## Question Types Explained
 
